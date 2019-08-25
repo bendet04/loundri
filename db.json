@@ -18,13 +18,15 @@
               "id": 1,
               "nama": "Cuci Kering Setrika",
               "kuantiti": 20,
-              "harga": 1000
+              "harga_loundry": 1000,
+              "harga_dryclean": 2000
             },
             {
               "id": 1,
               "nama": "Cuci Kering",
               "kuantiti": 50,
-              "harga": 1000
+              "harga_loundry": 1000,
+              "harga_dryclean": 2000
             }
           ]
         }
