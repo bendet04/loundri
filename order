@@ -1,30 +1,32 @@
-
 {
   "status": "SUCCESS",
   "msg": "",
-  "data":
-    {
-      "progress": 0,
-      "no_order": "Order-001",
-      "status_order": "menunggu konfirmasi",
-      "total_order": 25000,
-      "tanggal": "25 agustus 2019",
-      "alamat": "desa test kecamatan coba kabupaten try",
-      "note": "segera ya",
-      "kategori": "Kiloan",
-      
-      "barang": [
-        { 
-          "id": 1,
-          "nama": "Cuci Kering Setrika",
-          "kuantiti": 5,
-          "harga": 1000
-        },{
-          "id": 2,
-          "nama": "Cuci Kering",
-          "kuantiti": 5,
-          "harga": 1000
-        }
-      ]
-    }
+  "data": {
+    "progress": 0,
+    "no_order": "Order-001",
+    "status_order": "menunggu konfirmasi",
+    "total_order": 25000,
+    "tanggal": "25 agustus 2019",
+    "alamat": "desa test kecamatan coba kabupaten try",
+    "note": "segera ya",
+    "barang": [
+      {
+        "kategori": "kiloan",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Cuci Kering Setrika",
+            "kuantiti": 20,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Cuci Kering",
+            "kuantiti": 50,
+            "harga": 1000
+          }
+        ]
+      }
+    ]
+  }
 }
