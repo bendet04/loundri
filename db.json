@@ -52,6 +52,22 @@
         "total_order": 25000,
         "tanggal": "25 agustus 2019",
         "kategori": "Kiloan"
+      },
+      {
+        "progress": 0,
+        "no_order": "Order-003",
+        "status_order": "selesai",
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019",
+        "kategori": "Kiloan"
+      },
+      {
+        "progress": 0,
+        "no_order": "Order-004",
+        "status_order": "selesai",
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019",
+        "kategori": "Kiloan"
       }
     ]
   }
